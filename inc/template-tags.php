@@ -33,4 +33,3 @@ function aiv_base_get_post_meta(): string {
 		$author
 	);
 }
-

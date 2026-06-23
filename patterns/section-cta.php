@@ -7,6 +7,7 @@
  *
  * @package AIV_Base
  */
+
 ?>
 <!-- wp:group {"align":"wide","backgroundColor":"surface","style":{"spacing":{"padding":{"top":"var:preset|spacing|70","right":"var:preset|spacing|50","bottom":"var:preset|spacing|70","left":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide has-surface-background-color has-background">
@@ -27,4 +28,3 @@
 	<!-- /wp:buttons -->
 </div>
 <!-- /wp:group -->
-

@@ -35,7 +35,6 @@ function aiv_base_setup(): void {
 			'navigation-widgets',
 		)
 	);
-	add_theme_support( 'woocommerce' );
 
 	register_nav_menus(
 		array(
@@ -48,4 +47,3 @@ function aiv_base_setup(): void {
 	add_image_size( 'aiv-hero', 1600, 900, true );
 }
 add_action( 'after_setup_theme', 'aiv_base_setup' );
-

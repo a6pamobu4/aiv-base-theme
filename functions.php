@@ -22,4 +22,3 @@ $aiv_base_includes = array(
 foreach ( $aiv_base_includes as $aiv_base_file ) {
 	require_once get_theme_file_path( $aiv_base_file );
 }
-

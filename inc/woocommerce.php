@@ -27,4 +27,3 @@ function aiv_base_woocommerce_setup(): void {
 	);
 }
 add_action( 'after_setup_theme', 'aiv_base_woocommerce_setup' );
-

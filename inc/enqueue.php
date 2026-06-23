@@ -25,4 +25,3 @@ function aiv_base_enqueue_assets(): void {
 	);
 }
 add_action( 'wp_enqueue_scripts', 'aiv_base_enqueue_assets' );
-

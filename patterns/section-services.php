@@ -7,6 +7,7 @@
  *
  * @package AIV_Base
  */
+
 ?>
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide">
@@ -52,4 +53,3 @@
 	<!-- /wp:columns -->
 </div>
 <!-- /wp:group -->
-
